@@ -1,0 +1,10 @@
+.DS_Store
+.classpath
+.asscache
+.slcache/**/*
+.idea/workspace.xml
+.idea/**/*
+.project
+.settings/**/*
+*.iml
+target/**/*
